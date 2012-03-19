@@ -1,0 +1,23 @@
+{
+  "author": "jackey <jziwenchen@gmail.com> (www.bonesdev.com)",
+  "name": "nodespider",
+  "description": "Spider server that fetch content from internet.",
+  "version": "0.0.1",
+  "homepage": "http://github.com/jackey",
+  "repository": {
+    "url": ""
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "expresso test/test.js"
+  },
+  "engines": {
+    "node": "~v0.4.10"
+  },
+  "dependencies": {
+     "jquery":"1.5.x",
+     "iconv": "1.0.0",
+     "journey": "0.4.0-pre-3"
+   },
+  "devDependencies": {}
+}
